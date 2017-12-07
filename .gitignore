@@ -5,3 +5,4 @@ mc-makefile/.idea/mc-makefile.iml
 mc-makefile/.idea/misc.xml
 mc-makefile/.idea/workspace.xml
 *.xml
+*.iml
