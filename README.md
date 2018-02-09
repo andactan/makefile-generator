@@ -10,7 +10,6 @@ Table of Contents
 [Creating Procedures in MySQL](#creating-procedures-in-mysql)  
 [Connecting to Remote Databases via SSH](#connecting-to-remote-databases-via-ssh)  
 [Calling Procedures within Python Code](#calling-procedures-within-python-code)  
-[A Simple Introduction to Pandas and Seaborn Frameworks](#a-simple-introduction-to-pandas-and-seaborn-frameworks)  
 [Plotting with Seaborn](#plotting-with-seaborn) 
 
 ### Project Structure
@@ -114,4 +113,5 @@ def call_procedure():
 ```
 
 ### Plotting with Seaborn
-After reliably connecting to database and being able to invoke procursssssssssssssss
+After reliably connecting to database and being able to invoke procedures and getting call results, it is now the time for plotting actions. For the case, plotting library Seaborn is being used which is an extension and polishment over core graph library, just with style improvements.  
+- <https://seaborn.pydata.org/index.html>
